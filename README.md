@@ -1,1 +1,1 @@
-# My first step with Docker using a simple node.js app
+My first step with Docker using a simple node.js app
